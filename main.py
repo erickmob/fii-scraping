@@ -1,4 +1,4 @@
-# Press Shift+F10 to execute
+# Press Shift+F10 to execute   
 import csv
 import requests
 from bs4 import BeautifulSoup
